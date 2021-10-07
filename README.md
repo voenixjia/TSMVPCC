@@ -1,4 +1,9 @@
-# VPCC - mpeg-pcc-tmc2 - realese  
+# Deep Learning Geometry Compression Artifacts Removal for Video-Based Point Cloud Compression
+https://link.springer.com/article/10.1007/s11263-021-01503-6
+
+W. Jia, L. Li, Z. Li, and S. Liu, “Deep Learning Geometry Compression Artifacts Removal for Video-based Point Cloud Compression,” in International Journal of Computer Vision (IJCV), 2021
+
+# VPCC - mpeg-pcc-tmc2 - realese 
 
 ## Building
 
