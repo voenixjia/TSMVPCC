@@ -1,4 +1,7 @@
 # Deep Learning Geometry Compression Artifacts Removal for Video-Based Point Cloud Compression
+
+[[bib]](http://w.web.umkc.edu/wj3wr/IJCV_bib.txt) [[pdf]](http://w.web.umkc.edu/wj3wr/IJCV.pdf)
+
 https://link.springer.com/article/10.1007/s11263-021-01503-6
 
 W. Jia, L. Li, Z. Li, and S. Liu, “Deep Learning Geometry Compression Artifacts Removal for Video-based Point Cloud Compression,” in International Journal of Computer Vision (IJCV), 2021
